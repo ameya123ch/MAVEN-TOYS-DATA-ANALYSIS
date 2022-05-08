@@ -21,4 +21,4 @@ Power bi
 
 Dataset: https://maven-datasets.s3.amazonaws.com/Maven+Toys/Maven+Toys+Data.zip,
 
-Courtesy: Maven Analytics
+Courtesy: Maven Analytics https://www.mavenanalytics.io/
