@@ -13,7 +13,7 @@ Recommended Analysis
 
 . How much money is tied up in inventory at the toy stores? How long will it last?
 
-Please go through the report which I have shared, I have drawn few insights to answer above questions.
+Please go through the report which I have shared, I have drawn few insights to answer the above questions.
 
 Tools used
 
