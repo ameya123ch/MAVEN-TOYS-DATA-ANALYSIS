@@ -15,7 +15,7 @@ Recommended Analysis
 
 Please go through the report which I have shared, I have drawn certain insights to answer above questions.
 
-Tool used
+Tools used
 
 Power bi
 
